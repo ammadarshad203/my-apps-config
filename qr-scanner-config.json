@@ -1,5 +1,5 @@
 {
   "latest_app_version": "1.5",
   "app_update_enabled": true,
-  "force_app_update": true
+  "force_app_update": false
 }
