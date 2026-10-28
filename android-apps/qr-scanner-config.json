@@ -1,5 +1,5 @@
 {
   "latest_app_version": "1.9",
-  "minimum_supported_app_version": "1.7",
-  "app_update_type": "NONE"
+  "minimum_supported_app_version": "1.6",
+  "app_update_type": "FORCE_UPDATE"
 }
